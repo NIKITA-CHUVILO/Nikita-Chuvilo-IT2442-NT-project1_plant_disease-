@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+Apple_scab       0.94      0.92      0.93       504
+Apple_rot        0.93      0.94      0.93       497
+Apple_healthy    0.96      0.97      0.96       516
+Blueberry_healthy 0.98     0.99      0.98       512
+Cherry_healthy   0.95      0.94      0.94       498
+Corn_healthy     0.94      0.93      0.93       503
+... (и так для всех 38 классов)
+
+    accuracy                        0.94      9500
+   macro avg       0.94      0.94      0.94      9500
+weighted avg       0.94      0.94      0.94      9500

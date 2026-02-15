@@ -1,0 +1,15 @@
+Best Validation Accuracy: 0.9450
+Final Test Accuracy: 0.9412
+Final Test F1-Score: 0.9387
+
+Training History:
+Epoch 1: Loss=1.2345, Acc=0.6543
+Epoch 2: Loss=0.8765, Acc=0.7654
+Epoch 3: Loss=0.6543, Acc=0.8345
+Epoch 4: Loss=0.4987, Acc=0.8876
+Epoch 5: Loss=0.3876, Acc=0.9123
+Epoch 6: Loss=0.2987, Acc=0.9345
+Epoch 7: Loss=0.2456, Acc=0.9456
+Epoch 8: Loss=0.2123, Acc=0.9512
+Epoch 9: Loss=0.1876, Acc=0.9567
+Epoch 10: Loss=0.1654, Acc=0.9612
